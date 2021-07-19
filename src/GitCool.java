@@ -6,4 +6,10 @@ public class GitCool {
 
     //We have added our GitHub account under Intellij
     //make sure to click apply and click on to save
+
+    //we were able to succesfully shared project under our github account
+    //share project on github happen only one time per account
+    //create remote repository under your account
+    //create the link between local repo to remote repo
+    //push local commits to remote repo
 }
